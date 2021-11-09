@@ -1,7 +1,7 @@
 function selectMode(mode) {
  
     var color = "ghostWhite";
-    var image = "/img/light-icon.png";
+    var image = "./img/light-icon.png";
     var label = "Light Mode";
     
     if (mode === "dark") {
